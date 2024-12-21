@@ -1,0 +1,9 @@
+[requires]
+llvm-core/13.0.0
+
+[tool_requires]
+cmake/3.22.6
+
+[generators]
+CMakeDeps
+CMakeToolchain

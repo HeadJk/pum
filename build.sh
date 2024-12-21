@@ -1,5 +1,7 @@
 #!/bin/bash
 
+./conan_profile_init.sh
+
 ./build_deps.sh
 
 original_dir=$(pwd)
