@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./conan_profile_init.sh
+conan profile detect --force
 
 ./build_deps.sh
 
